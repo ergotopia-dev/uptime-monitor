@@ -4,19 +4,17 @@
     "url": "https://ergotopia.de",
     "icon": "https://icons.duckduckgo.com/ip3/ergotopia.de.ico",
     "slug": "ergotopia-de",
-    "status": "down",
-    "uptime": "97.02%",
-    "uptimeDay": "97.02%",
-    "uptimeWeek": "97.02%",
-    "uptimeMonth": "97.02%",
-    "uptimeYear": "97.02%",
-    "time": 1864,
-    "timeDay": 1864,
-    "timeWeek": 1864,
-    "timeMonth": 1864,
-    "timeYear": 1864,
-    "dailyMinutesDown": {
-      "2023-02-13": 1
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1751,
+    "timeDay": 1751,
+    "timeWeek": 1751,
+    "timeMonth": 1751,
+    "timeYear": 1751,
+    "dailyMinutesDown": {}
   }
 ]
