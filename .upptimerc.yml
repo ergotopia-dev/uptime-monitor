@@ -3,7 +3,7 @@ repo: uptime-monitor # The name of this repository
 
 sites:
   - name: ergotopia.de
-    url: https://ergotopia.com
+    url: https://ergotopia.de
 
 status-website:
   cname: status.ergotopia.de
