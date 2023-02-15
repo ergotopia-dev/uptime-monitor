@@ -1,10 +1,10 @@
 [
   {
     "name": "ergotopia.de",
-    "url": "https://ergotopia.de",
-    "icon": "https://icons.duckduckgo.com/ip3/ergotopia.de.ico",
+    "url": "https://ergotopia.com",
+    "icon": "https://icons.duckduckgo.com/ip3/ergotopia.com.ico",
     "slug": "ergotopia-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 1745,
     "timeMonth": 1745,
     "timeYear": 1745,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-15": 0
+    }
   }
 ]
