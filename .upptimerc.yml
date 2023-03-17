@@ -6,6 +6,8 @@ sites:
     url: https://ergotopia.de
   - name: ergotopia.de (API)
     url: https://api.ergotopia.de/check-status
+  - name: partner.ergotopia.de
+    url: https://partner.ergotopia.de
 
 status-website:
   cname: status.ergotopia.de
