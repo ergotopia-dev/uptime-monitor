@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1713,
-    "timeDay": 1942,
-    "timeWeek": 1572,
-    "timeMonth": 1688,
-    "timeYear": 1713,
+    "time": 1705,
+    "timeDay": 1756,
+    "timeWeek": 1553,
+    "timeMonth": 1678,
+    "timeYear": 1705,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 494,
-    "timeDay": 630,
-    "timeWeek": 494,
-    "timeMonth": 494,
-    "timeYear": 494,
+    "time": 481,
+    "timeDay": 553,
+    "timeWeek": 481,
+    "timeMonth": 481,
+    "timeYear": 481,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "partner.ergotopia.de",
-    "url": "https://partner.ergotopia.de",
-    "icon": "https://icons.duckduckgo.com/ip3/partner.ergotopia.de.ico",
-    "slug": "partner-ergotopia-de",
-    "status": "down",
-    "uptime": "17.82%",
-    "uptimeDay": "17.82%",
-    "uptimeWeek": "17.82%",
-    "uptimeMonth": "17.82%",
-    "uptimeYear": "17.82%",
-    "time": 952,
-    "timeDay": 952,
-    "timeWeek": 952,
-    "timeMonth": 952,
-    "timeYear": 952,
-    "dailyMinutesDown": {
-      "2023-03-17": 0
-    }
   }
 ]
