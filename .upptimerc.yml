@@ -3,7 +3,9 @@ repo: uptime-monitor # The name of this repository
 
 sites:
   - name: ergotopia.de
-    url: https://ergotopia.de
+    url: https://www.ergotopia.de
+  - name: ergotopia.de (blog)
+    url: https://www.ergotopia.de/blog
   - name: ergotopia.de (API)
     url: https://api.ergotopia.de/check-status
 #  - name: partner.ergotopia.de
