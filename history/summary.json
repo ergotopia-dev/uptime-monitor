@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1460,
-    "timeDay": 971,
-    "timeWeek": 1164,
-    "timeMonth": 1357,
-    "timeYear": 1460,
+    "time": 1457,
+    "timeDay": 968,
+    "timeWeek": 1114,
+    "timeMonth": 1350,
+    "timeYear": 1457,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 473,
-    "timeDay": 276,
-    "timeWeek": 339,
-    "timeMonth": 546,
-    "timeYear": 473,
+    "time": 482,
+    "timeDay": 1213,
+    "timeWeek": 459,
+    "timeMonth": 573,
+    "timeYear": 482,
     "dailyMinutesDown": {}
   },
   {
@@ -42,17 +42,15 @@
     "slug": "ergotopia-de-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 481,
-    "timeDay": 598,
-    "timeWeek": 486,
+    "timeDay": 656,
+    "timeWeek": 483,
     "timeMonth": 482,
     "timeYear": 481,
-    "dailyMinutesDown": {
-      "2023-07-31": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
