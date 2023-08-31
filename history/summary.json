@@ -4,19 +4,19 @@
     "url": "https://www.ergotopia.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.ergotopia.de.ico",
     "slug": "ergotopia-de",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
-    "time": 1390,
-    "timeDay": 1006,
-    "timeWeek": 998,
-    "timeMonth": 1000,
-    "timeYear": 1390,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "96.92%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.98%",
+    "time": 1387,
+    "timeDay": 892,
+    "timeWeek": 971,
+    "timeMonth": 993,
+    "timeYear": 1387,
     "dailyMinutesDown": {
-      "2023-08-31": 16
+      "2023-08-31": 44
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ergotopia.de.ico",
     "slug": "ergotopia-de-api",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "97.68%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "95.72%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.98%",
     "time": 476,
     "timeDay": 524,
     "timeWeek": 490,
     "timeMonth": 463,
     "timeYear": 476,
     "dailyMinutesDown": {
-      "2023-08-31": 33
+      "2023-08-31": 62
     }
   }
 ]
