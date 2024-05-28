@@ -18,8 +18,6 @@ sites:
     url: https://www.ergotopia.de/ergonomie-shop/gesund-sitzen/ergonomischer-buerostuhl/masterback
   - name: ergotopia.de (product: Nextback)
     url: https://www.ergotopia.de/ergonomie-shop/gesund-sitzen/ergonomischer-buerostuhl/nextback-mit-kopfstuetze
-#  - name: partner.ergotopia.de
-#    url: https://partner.ergotopia.de
 
 status-website:
   cname: status.ergotopia.de
