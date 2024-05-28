@@ -12,11 +12,11 @@ sites:
     url: https://www.ergotopia.de/blog
   - name: ergotopia.de (API)
     url: https://api.ergotopia.de/check-status
-  - name: ergotopia.de (product: Desktopia Pro X)
+  - name: ergotopia.de (Desktopia Pro X)
     url: https://www.ergotopia.de/ergonomie-shop/hoehenverstellbarer-schreibtisch/desktopia-pro-elektrisch-memoryschalter
-  - name: ergotopia.de (product: Masterback)
+  - name: ergotopia.de (Masterback)
     url: https://www.ergotopia.de/ergonomie-shop/gesund-sitzen/ergonomischer-buerostuhl/masterback
-  - name: ergotopia.de (product: Nextback)
+  - name: ergotopia.de (Nextback)
     url: https://www.ergotopia.de/ergonomie-shop/gesund-sitzen/ergonomischer-buerostuhl/nextback-mit-kopfstuetze
 
 status-website:
