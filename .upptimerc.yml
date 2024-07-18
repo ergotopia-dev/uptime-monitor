@@ -12,6 +12,8 @@ sites:
     url: https://www.ergotopia.de/blog
   - name: ergotopia.de (API)
     url: https://api.ergotopia.de/check-status
+  - name: ergotopia.de (plattform)
+    url: https://plattform.ergotopia.de
   - name: ergotopia.de (Desktopia Pro X)
     url: https://www.ergotopia.de/ergonomie-shop/hoehenverstellbarer-schreibtisch/desktopia-pro-elektrisch-memoryschalter
   - name: ergotopia.de (Masterback)
