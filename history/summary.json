@@ -124,6 +124,24 @@
     }
   },
   {
+    "name": "ergotopia.de (plattform)",
+    "url": "https://plattform.ergotopia.de",
+    "icon": "https://icons.duckduckgo.com/ip3/plattform.ergotopia.de.ico",
+    "slug": "ergotopia-de-plattform",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1861,
+    "timeDay": 1861,
+    "timeWeek": 1861,
+    "timeMonth": 1861,
+    "timeYear": 1861,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "ergotopia.de (Desktopia Pro X)",
     "url": "https://www.ergotopia.de/ergonomie-shop/hoehenverstellbarer-schreibtisch/desktopia-pro-elektrisch-memoryschalter",
     "icon": "https://icons.duckduckgo.com/ip3/www.ergotopia.de.ico",
