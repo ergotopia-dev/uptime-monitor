@@ -37,7 +37,7 @@
     "uptime": "94.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "31.41%",
+    "uptimeMonth": "31.42%",
     "uptimeYear": "93.36%",
     "time": 401,
     "timeDay": 261,
@@ -96,7 +96,7 @@
     "timeMonth": 418,
     "timeYear": 903,
     "dailyMinutesDown": {
-      "2024-12-07": 75,
+      "2024-12-07": 80,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
       "2024-12-04": 1440,
@@ -156,7 +156,7 @@
     "timeMonth": 187,
     "timeYear": 295,
     "dailyMinutesDown": {
-      "2024-12-07": 75,
+      "2024-12-07": 80,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
       "2024-12-04": 1440,
@@ -255,9 +255,9 @@
     "slug": "ergotopia-de-plattform-subdomain",
     "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "98.31%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "98.27%",
+    "uptimeMonth": "99.60%",
     "uptimeYear": "99.89%",
     "time": 2376,
     "timeDay": 990,
@@ -265,7 +265,7 @@
     "timeMonth": 2503,
     "timeYear": 2376,
     "dailyMinutesDown": {
-      "2024-12-07": 0,
+      "2024-12-07": 5,
       "2024-12-04": 122,
       "2024-12-03": 49
     }
