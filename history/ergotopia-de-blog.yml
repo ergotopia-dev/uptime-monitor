@@ -1,7 +1,7 @@
 url: https://www.ergotopia.de/blog
-status: up
-code: 200
-responseTime: 380
-lastUpdated: 2025-02-03T23:14:39.185Z
+status: down
+code: 502
+responseTime: 139
+lastUpdated: 2025-02-04T05:10:17.507Z
 startTime: 2023-05-19T11:45:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
