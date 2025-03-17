@@ -1,7 +1,7 @@
 url: https://www.ergotopia.de
-status: up
-code: 200
-responseTime: 1574
-lastUpdated: 2025-03-16T23:15:42.903Z
+status: down
+code: 500
+responseTime: 882
+lastUpdated: 2025-03-17T12:25:09.479Z
 startTime: 2023-02-13T17:46:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
