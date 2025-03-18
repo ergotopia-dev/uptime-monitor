@@ -1,7 +1,7 @@
 url: https://api.ergotopia.de/check-status
-status: up
-code: 200
-responseTime: 716
-lastUpdated: 2025-03-18T07:41:41.244Z
+status: down
+code: 500
+responseTime: 784
+lastUpdated: 2025-03-18T08:18:32.961Z
 startTime: 2023-03-13T12:41:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
