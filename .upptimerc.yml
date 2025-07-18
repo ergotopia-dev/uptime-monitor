@@ -16,12 +16,24 @@ sites:
     url: https://plattform.ergotopia.de
   - name: ergotopia.de (plattform subdomain)
     url: https://ergotopia.partner.ergotopia.de
-  - name: ergotopia.de (Desktopia Pro X)
-    url: https://www.ergotopia.de/ergonomie-shop/hoehenverstellbarer-schreibtisch/desktopia-pro-elektrisch-memoryschalter
-  - name: ergotopia.de (Masterback)
-    url: https://www.ergotopia.de/ergonomie-shop/gesund-sitzen/ergonomischer-buerostuhl/masterback
-  - name: ergotopia.de (Nextback)
+  - name: ergotopia.de (Pro X PDP)
+    url: https://www.ergotopia.de/ergonomie-shop/hoehenverstellbarer-schreibtisch/desktopia-pro-x
+  - name: ergotopia.de (NextBack PDP)
     url: https://www.ergotopia.de/ergonomie-shop/gesund-sitzen/ergonomischer-buerostuhl/nextback-mit-kopfstuetze
+  - name: ergotopia.de (One PDP)
+    url: https://www.ergotopia.de/ergonomie-shop/hoehenverstellbarer-schreibtisch/desktopia-one
+  - name: ergotopia.de (Masterback PDP)
+    url: https://www.ergotopia.de/ergonomie-shop/gesund-sitzen/ergonomischer-buerostuhl/masterback
+  - name: ergotopia.de (PureBack PDP)
+    url: https://www.ergotopia.de/ergonomie-shop/gesund-sitzen/ergonomischer-buerostuhl/pureback
+  - name: ergotopia.de (WellBack PDP)
+    url: https://www.ergotopia.de/ergonomie-shop/gesund-sitzen/ergonomischer-buerostuhl/wellback
+  - name: ergotopia.de (Dyko PDP)
+    url: https://www.ergotopia.de/ergonomie-shop/gesund-sitzen/ergonomischer-buerohocker-stehhilfe/dyko
+  - name: ergotopia.de (Tische Kat)
+    url: https://www.ergotopia.de/ergonomie-shop/hoehenverstellbarer-schreibtisch
+  - name: ergotopia.de (Stuhle Kat)
+    url: https://www.ergotopia.de/ergonomie-shop/gesund-sitzen/ergonomischer-buerostuhl
 
 status-website:
   cname: status.ergotopia.de
