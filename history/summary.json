@@ -76,11 +76,11 @@
     "url": "https://www.ergotopia.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.ergotopia.de.ico",
     "slug": "ergotopia-de",
-    "status": "up",
+    "status": "down",
     "uptime": "95.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "87.54%",
     "time": 925,
     "timeDay": 380,
@@ -88,6 +88,7 @@
     "timeMonth": 445,
     "timeYear": 1028,
     "dailyMinutesDown": {
+      "2025-10-02": 4,
       "2025-06-20": 47,
       "2025-06-03": 17,
       "2025-03-17": 34,
@@ -305,18 +306,20 @@
     "url": "https://www.ergotopia.de/ergonomie-shop/gesund-sitzen/ergonomischer-buerostuhl/nextback-mit-kopfstuetze",
     "icon": "https://icons.duckduckgo.com/ip3/www.ergotopia.de.ico",
     "slug": "ergotopia-de-next-back-pdp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 189,
     "timeDay": 58,
     "timeWeek": 139,
     "timeMonth": 108,
     "timeYear": 189,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-02": 2
+    }
   },
   {
     "name": "ergotopia.de (One PDP)",
@@ -415,9 +418,9 @@
     "url": "https://www.ergotopia.de/ergonomie-shop/hoehenverstellbarer-schreibtisch",
     "icon": "https://icons.duckduckgo.com/ip3/www.ergotopia.de.ico",
     "slug": "ergotopia-de-tische-kat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.24%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.93%",
@@ -427,6 +430,7 @@
     "timeMonth": 508,
     "timeYear": 473,
     "dailyMinutesDown": {
+      "2025-10-02": 0,
       "2025-09-30": 76
     }
   },
