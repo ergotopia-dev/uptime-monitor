@@ -379,9 +379,9 @@
     "url": "https://www.ergotopia.de/ergonomie-shop/gesund-sitzen/ergonomischer-buerostuhl/wellback",
     "icon": "https://icons.duckduckgo.com/ip3/www.ergotopia.de.ico",
     "slug": "ergotopia-de-well-back-pdp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -390,7 +390,9 @@
     "timeWeek": 250,
     "timeMonth": 239,
     "timeYear": 258,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-04": 0
+    }
   },
   {
     "name": "ergotopia.de (Dyko PDP)",
