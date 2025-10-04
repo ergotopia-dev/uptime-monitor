@@ -379,19 +379,19 @@
     "url": "https://www.ergotopia.de/ergonomie-shop/gesund-sitzen/ergonomischer-buerostuhl/wellback",
     "icon": "https://icons.duckduckgo.com/ip3/www.ergotopia.de.ico",
     "slug": "ergotopia-de-well-back-pdp",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 258,
-    "timeDay": 61,
-    "timeWeek": 250,
-    "timeMonth": 239,
-    "timeYear": 258,
+    "time": 256,
+    "timeDay": 50,
+    "timeWeek": 224,
+    "timeMonth": 232,
+    "timeYear": 256,
     "dailyMinutesDown": {
-      "2025-10-04": 0
+      "2025-10-04": 5
     }
   },
   {
