@@ -214,7 +214,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ergotopia.de.ico",
     "slug": "ergotopia-de-api",
     "status": "up",
-    "uptime": "99.50%",
+    "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
@@ -305,9 +305,9 @@
     "url": "https://www.ergotopia.de/ergonomie-shop/gesund-sitzen/ergonomischer-buerostuhl/nextback-mit-kopfstuetze-pro",
     "icon": "https://icons.duckduckgo.com/ip3/www.ergotopia.de.ico",
     "slug": "ergotopia-de-next-back-pdp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "88.32%",
     "uptimeMonth": "97.31%",
     "uptimeYear": "99.10%",
@@ -317,6 +317,7 @@
     "timeMonth": 160,
     "timeYear": 194,
     "dailyMinutesDown": {
+      "2025-10-17": 1,
       "2025-10-14": 556,
       "2025-10-13": 622
     }
