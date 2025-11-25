@@ -10,10 +10,10 @@
     "uptimeWeek": "98.10%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.94%",
-    "time": 960,
-    "timeDay": 640,
-    "timeWeek": 775,
-    "timeMonth": 848,
+    "time": 959,
+    "timeDay": 889,
+    "timeWeek": 783,
+    "timeMonth": 849,
     "timeYear": 909,
     "dailyMinutesDown": {
       "2025-11-18": 191,
@@ -34,20 +34,19 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.10%",
     "uptimeMonth": "99.56%",
-    "uptimeYear": "98.90%",
+    "uptimeYear": "99.17%",
     "time": 368,
-    "timeDay": 385,
-    "timeWeek": 444,
-    "timeMonth": 439,
-    "timeYear": 357,
+    "timeDay": 321,
+    "timeWeek": 445,
+    "timeMonth": 438,
+    "timeYear": 358,
     "dailyMinutesDown": {
       "2025-11-18": 191,
       "2025-10-01": 18,
       "2025-09-30": 21,
       "2025-06-03": 17,
       "2024-11-27": 1319,
-      "2024-11-26": 1440,
-      "2024-11-25": 1440
+      "2024-11-26": 1440
     }
   },
   {
@@ -56,15 +55,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ergotopia.de.ico",
     "slug": "ergotopia-de",
     "status": "up",
-    "uptime": "95.49%",
+    "uptime": "95.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.17%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "93.02%",
+    "uptimeYear": "93.29%",
     "time": 930,
-    "timeDay": 100,
-    "timeWeek": 750,
-    "timeMonth": 1209,
+    "timeDay": 248,
+    "timeWeek": 633,
+    "timeMonth": 1207,
     "timeYear": 1130,
     "dailyMinutesDown": {
       "2025-11-18": 84,
@@ -95,8 +94,7 @@
       "2024-11-29": 1440,
       "2024-11-28": 1440,
       "2024-11-27": 1440,
-      "2024-11-26": 1440,
-      "2024-11-25": 1440
+      "2024-11-26": 1440
     }
   },
   {
@@ -109,10 +107,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.17%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "93.04%",
+    "uptimeYear": "93.31%",
     "time": 366,
-    "timeDay": 35,
-    "timeWeek": 241,
+    "timeDay": 40,
+    "timeWeek": 191,
     "timeMonth": 422,
     "timeYear": 468,
     "dailyMinutesDown": {
@@ -141,8 +139,7 @@
       "2024-11-29": 1440,
       "2024-11-28": 1440,
       "2024-11-27": 1440,
-      "2024-11-26": 1440,
-      "2024-11-25": 1440
+      "2024-11-26": 1440
     }
   },
   {
@@ -157,9 +154,9 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.93%",
     "time": 762,
-    "timeDay": 877,
-    "timeWeek": 595,
-    "timeMonth": 652,
+    "timeDay": 612,
+    "timeWeek": 602,
+    "timeMonth": 645,
     "timeYear": 794,
     "dailyMinutesDown": {
       "2025-11-18": 102,
@@ -188,11 +185,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1598,
-    "timeDay": 1521,
-    "timeWeek": 1359,
-    "timeMonth": 1357,
-    "timeYear": 1562,
+    "time": 1597,
+    "timeDay": 1332,
+    "timeWeek": 1374,
+    "timeMonth": 1345,
+    "timeYear": 1561,
     "dailyMinutesDown": {}
   },
   {
@@ -207,10 +204,10 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.78%",
     "time": 2044,
-    "timeDay": 1974,
-    "timeWeek": 1626,
-    "timeMonth": 1776,
-    "timeYear": 1942,
+    "timeDay": 1774,
+    "timeWeek": 1635,
+    "timeMonth": 1768,
+    "timeYear": 1941,
     "dailyMinutesDown": {
       "2025-11-18": 102,
       "2024-12-09": 521,
@@ -231,11 +228,11 @@
     "uptimeWeek": "99.16%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.95%",
-    "time": 298,
-    "timeDay": 43,
-    "timeWeek": 255,
+    "time": 296,
+    "timeDay": 65,
+    "timeWeek": 208,
     "timeMonth": 455,
-    "timeYear": 298,
+    "timeYear": 296,
     "dailyMinutesDown": {
       "2025-11-18": 84
     }
@@ -246,16 +243,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ergotopia.de.ico",
     "slug": "ergotopia-de-next-back-pdp",
     "status": "up",
-    "uptime": "97.74%",
+    "uptime": "97.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.16%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "97.74%",
-    "time": 413,
-    "timeDay": 38,
-    "timeWeek": 213,
-    "timeMonth": 388,
-    "timeYear": 413,
+    "uptimeYear": "97.76%",
+    "time": 410,
+    "timeDay": 40,
+    "timeWeek": 179,
+    "timeMonth": 387,
+    "timeYear": 410,
     "dailyMinutesDown": {
       "2025-11-18": 84,
       "2025-10-19": 1364,
@@ -276,11 +273,11 @@
     "uptimeWeek": "99.16%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.94%",
-    "time": 278,
-    "timeDay": 29,
-    "timeWeek": 210,
-    "timeMonth": 361,
-    "timeYear": 278,
+    "time": 276,
+    "timeDay": 34,
+    "timeWeek": 169,
+    "timeMonth": 360,
+    "timeYear": 276,
     "dailyMinutesDown": {
       "2025-11-18": 84,
       "2025-08-01": 19
@@ -297,11 +294,11 @@
     "uptimeWeek": "99.16%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.95%",
-    "time": 304,
-    "timeDay": 44,
-    "timeWeek": 310,
-    "timeMonth": 491,
-    "timeYear": 304,
+    "time": 302,
+    "timeDay": 57,
+    "timeWeek": 242,
+    "timeMonth": 492,
+    "timeYear": 302,
     "dailyMinutesDown": {
       "2025-11-18": 84
     }
@@ -317,11 +314,11 @@
     "uptimeWeek": "99.16%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.95%",
-    "time": 254,
-    "timeDay": 30,
-    "timeWeek": 266,
-    "timeMonth": 361,
-    "timeYear": 254,
+    "time": 253,
+    "timeDay": 37,
+    "timeWeek": 237,
+    "timeMonth": 360,
+    "timeYear": 253,
     "dailyMinutesDown": {
       "2025-11-18": 84
     }
@@ -337,11 +334,11 @@
     "uptimeWeek": "99.16%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.95%",
-    "time": 247,
-    "timeDay": 31,
-    "timeWeek": 182,
+    "time": 245,
+    "timeDay": 32,
+    "timeWeek": 151,
     "timeMonth": 330,
-    "timeYear": 247,
+    "timeYear": 245,
     "dailyMinutesDown": {
       "2025-11-18": 84
     }
@@ -357,11 +354,11 @@
     "uptimeWeek": "99.16%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.95%",
-    "time": 257,
-    "timeDay": 43,
-    "timeWeek": 238,
+    "time": 256,
+    "timeDay": 44,
+    "timeWeek": 204,
     "timeMonth": 389,
-    "timeYear": 257,
+    "timeYear": 256,
     "dailyMinutesDown": {
       "2025-11-18": 84
     }
@@ -377,11 +374,11 @@
     "uptimeWeek": "99.16%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.91%",
-    "time": 462,
-    "timeDay": 64,
-    "timeWeek": 375,
+    "time": 459,
+    "timeDay": 72,
+    "timeWeek": 274,
     "timeMonth": 619,
-    "timeYear": 462,
+    "timeYear": 459,
     "dailyMinutesDown": {
       "2025-11-18": 84,
       "2025-09-30": 76
@@ -398,11 +395,11 @@
     "uptimeWeek": "99.16%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.95%",
-    "time": 330,
-    "timeDay": 55,
-    "timeWeek": 354,
-    "timeMonth": 604,
-    "timeYear": 330,
+    "time": 329,
+    "timeDay": 89,
+    "timeWeek": 288,
+    "timeMonth": 605,
+    "timeYear": 329,
     "dailyMinutesDown": {
       "2025-11-18": 84
     }
@@ -413,16 +410,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ergotopia.de.ico",
     "slug": "black-friday",
     "status": "up",
-    "uptime": "99.50%",
+    "uptime": "99.53%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.50%",
-    "time": 818,
-    "timeDay": 36,
-    "timeWeek": 552,
-    "timeMonth": 818,
-    "timeYear": 818,
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.53%",
+    "time": 788,
+    "timeDay": 70,
+    "timeWeek": 428,
+    "timeMonth": 788,
+    "timeYear": 788,
     "dailyMinutesDown": {
       "2025-11-18": 84,
       "2025-11-17": 34
