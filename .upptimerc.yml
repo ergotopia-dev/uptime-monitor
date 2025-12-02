@@ -34,8 +34,6 @@ sites:
     url: https://www.ergotopia.de/ergonomie-shop/hoehenverstellbarer-schreibtisch
   - name: ergotopia.de (Stuhle Kat)
     url: https://www.ergotopia.de/ergonomie-shop/gesund-sitzen/ergonomischer-buerostuhl
-  - name: Black friday
-    url: https://www.ergotopia.de/black-friday
 
 status-website:
   cname: status.ergotopia.de
