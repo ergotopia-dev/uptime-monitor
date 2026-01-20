@@ -129,9 +129,9 @@
     "url": "https://plattform.ergotopia.de",
     "icon": "https://icons.duckduckgo.com/ip3/plattform.ergotopia.de.ico",
     "slug": "ergotopia-de-plattform",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -140,7 +140,9 @@
     "timeWeek": 1265,
     "timeMonth": 1320,
     "timeYear": 1487,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-20": 0
+    }
   },
   {
     "name": "ergotopia.de (plattform subdomain)",
@@ -148,7 +150,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ergotopia.partner.ergotopia.de.ico",
     "slug": "ergotopia-de-plattform-subdomain",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -188,11 +190,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ergotopia.de.ico",
     "slug": "ergotopia-de-next-back-pdp",
     "status": "up",
-    "uptime": "98.43%",
+    "uptime": "98.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.43%",
+    "uptimeYear": "98.44%",
     "time": 407,
     "timeDay": 25,
     "timeWeek": 377,
