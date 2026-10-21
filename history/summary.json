@@ -93,16 +93,16 @@
     "url": "https://api.ergotopia.de/check-status",
     "icon": "https://icons.duckduckgo.com/ip3/api.ergotopia.de.ico",
     "slug": "ergotopia-de-api",
-    "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
-    "time": 759,
-    "timeDay": 600,
-    "timeWeek": 760,
-    "timeMonth": 729,
+    "status": "up",
+    "uptime": "99.60%",
+    "uptimeDay": "82.29%",
+    "uptimeWeek": "97.47%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.84%",
+    "time": 758,
+    "timeDay": 597,
+    "timeWeek": 742,
+    "timeMonth": 725,
     "timeYear": 730,
     "dailyMinutesDown": {
       "2025-11-18": 102,
@@ -110,7 +110,7 @@
       "2026-02-10": 39,
       "2026-05-05": 127,
       "2026-08-21": 28,
-      "2026-10-21": 0
+      "2026-10-21": 255
     }
   },
   {
